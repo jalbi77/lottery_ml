@@ -1,0 +1,25 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env/
+.envrc
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & Debug
+*.log
+debug.log
+
+# Build & Dist
+dist/
+build/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+*.dockerfile
